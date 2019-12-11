@@ -1,7 +1,8 @@
 # Devanagari-Handwritten-Character-Dataset
 The dataset can be downloaded from: https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset#
 
-##Accuracies of the models created:
+## Accuracies of the models created:
+
 | Model | Accuracy |
 | ----- | -------- |
 | Logistic Regression | 65.9% |
@@ -15,7 +16,7 @@ The dataset can be downloaded from: https://archive.ics.uci.edu/ml/datasets/Deva
 
 For more details, see the Report.
 
-###Contributors: 
+### Contributors: 
 1. @anandthegreat
 2. @atul2938
 3. singh4akash
