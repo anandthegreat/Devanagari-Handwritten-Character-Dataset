@@ -17,6 +17,7 @@ The dataset can be downloaded from: https://archive.ics.uci.edu/ml/datasets/Deva
 For more details, see the Report.
 
 ### Contributors: 
-1. @anandthegreat
-2. @atul2938
-3. singh4akash
+1. [anandthegreat](https://github.com/anandthegreat)
+2. [atul2938](https://github.com/atul2938)
+3. [singh4akash](https://github.com/singh4akash)
+
