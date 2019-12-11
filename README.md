@@ -10,7 +10,7 @@ The dataset can be downloaded from: https://archive.ics.uci.edu/ml/datasets/Deva
 | KNN | 83% |
 | Random Forest | 83.1% |
 | Covolutional Autoencoder (CAE) | 95.09% |
-| CAE+SVM | 65.9% |
+| CAE+SVM | 95.9% |
 | CNN | 98.83 |
 | CNN+SVM | 99.06% |
 
