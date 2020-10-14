@@ -25,7 +25,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # In[ ]:
-# ##PLAGIARIZED CELL
 # 
 # root_dir = os.getcwd()
 # img_dir = os.path.join(root_dir, 'train')
